@@ -1,15 +1,16 @@
-id: opecha:P007951
+id: P007951
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN6609
   title: ཐཱན་ཉུང་གི་འཚོ་བ།
-  volume:
+  author: ''
+  volumes:
     15b6d95665824935b9745ee847708ab4:
       image_group_id: I3CN6611
       title: Volume 1 of thAn nyung gi 'tsho ba/
       volume_number: 1
       total_pages: 114
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཐཱན་ཉུང་གི་འཚོ་བ།
   author: ''
